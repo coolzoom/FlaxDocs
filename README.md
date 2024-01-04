@@ -2,7 +2,7 @@
 
 ![Flax Engine Docs](manual/graphics/post-effects/media/postFx.png)
 
-欢迎来到绯蓝文档存储库。这个存储库包含绯蓝文档的所有源文件(https://docs.flaxengine.com/)。欢迎任何人做翻译贡献!
+欢迎来到绯蓝文档存储库。这个存储库包含绯蓝文档的所有源文件 (https://docs.flaxengine.com/). 欢迎任何人做翻译贡献!
 
 ## 编辑
 
